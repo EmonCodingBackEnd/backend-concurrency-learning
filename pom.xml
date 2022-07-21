@@ -14,6 +14,7 @@
     <groupId>com.coding.concurrency</groupId>
     <artifactId>backend-concurrency-learning</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <name>backend-concurrency-learning</name>
 
     <properties>
         <java.version>1.8</java.version>
